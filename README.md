@@ -25,6 +25,12 @@ The "h" argument refers to the output file.
 
 ## Part 3
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 | Model name | r parameter | k parameter | accuracy |
 | :---: | :---: | :---: | :---: | :---: |
 | model_rdefault_k100 | 100 | 100 | 31% |

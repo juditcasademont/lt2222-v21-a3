@@ -25,7 +25,7 @@ The "h" argument refers to the output file.
 
 ## Part 3
 
-### The following are my results of training and evaluating the models
+The following are my results of training and evaluating the models
 
 | Model name | r parameter | k parameter | Accuracy |
 | :--------: | :---------: | :---------: | :------: |

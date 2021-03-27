@@ -32,7 +32,7 @@ The "h" argument refers to the output file.
 | col 3 is | right-aligned |    $1 |
 
 | Model name | r parameter | k parameter | accuracy |
-| :---: | :---: | :---: | :---: | :---: |
+| :--------: | :---------: | :---------: | :------: |
 | model_rdefault_k100 | 100 | 100 | 31% |
 | model_rdefault_k250 | 100 | 250 | 40% |
 | model_rdefault_k300 | 100 | 300 | 46% |

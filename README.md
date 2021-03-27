@@ -23,6 +23,8 @@ The "h" argument refers to the output file.
 
 ## Part 2
 
+I worked on this code in close collaboration with Sigrid Jonsson and Sarab Youssef. As a consequence, our codes will likely be similar.
+
 ## Part 3
 
 The following are my results of training and evaluating the models

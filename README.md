@@ -23,7 +23,8 @@ The "h" argument refers to the output file.
 
 ## Part 2
 
-I worked on this code in close collaboration with Sigrid Jonsson and Sarab Youssef. As a consequence, our codes will likely be similar.
+eval.py is in charge of loading our existing model and the data for testing, creating compatible evaluation instances, using the model to predict instances, writing said predicted instances into a new file and printing the accuracy of the model to the terminal. To do so, eval.py contains 4 functions: g_v2 and b_v2 (which are a small variation of g and b from train, in order to make the evaluation instances compatible), new_vowels, which is used to write the vowels predicted by the model into a new output file, and finally we have the function accuracy, which prints how accurate the model is.
+Note: I worked on this code in collaboration with Sigrid Jonsson and Sarab Youssef. As a consequence, our codes will likely be similar.
 
 ## Part 3
 
